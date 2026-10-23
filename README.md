@@ -153,13 +153,13 @@ This repository will be updated throughout the project's development, including 
 
 This project is developed collaboratively by three team members with a shared interest in sports analytics, data science, and applying predictive modeling to real-world basketball performance.
 
-### Team Member 1: [Name]
+### Team Member 1: Anshuman Agrawal
 
 **Role:** [Project Role]
 
 **Contributions:** [Primary Responsibilities]
 
-**GitHub:** [GitHub Profile]
+**GitHub:** agrawalanshuman
 
 ### Team Member 2: [Name]
 
