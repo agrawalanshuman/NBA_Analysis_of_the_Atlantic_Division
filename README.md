@@ -161,7 +161,7 @@ This project is developed collaboratively by three team members with a shared in
 
 **GitHub:** agrawalanshuman
 
-### Team Member 2: [Name]
+### Team Member 2: Hemanth Kumar Gopi
 
 **Role:** [Project Role]
 
