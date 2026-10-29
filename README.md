@@ -169,7 +169,7 @@ This project is developed collaboratively by three team members with a shared in
 
 **GitHub:** [GitHub Profile]
 
-### Team Member 3: [Name]
+### Team Member 3: Paris Taliadouros
 
 **Role:** [Project Role]
 
