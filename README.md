@@ -155,25 +155,13 @@ This project is developed collaboratively by three team members with a shared in
 
 ### Team Member 1: Anshuman Agrawal
 
-**Role:** [Project Role]
-
-**Contributions:** [Primary Responsibilities]
-
 **GitHub:** agrawalanshuman
 
 ### Team Member 2: Hemanth Kumar Gopi
 
-**Role:** [Project Role]
-
-**Contributions:** [Primary Responsibilities]
-
 **GitHub:** [GitHub Profile]
 
 ### Team Member 3: Paris Taliadouros
-
-**Role:** [Project Role]
-
-**Contributions:** [Primary Responsibilities]
 
 **GitHub:** [GitHub Profile]
 
