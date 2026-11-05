@@ -6,9 +6,11 @@
 
 The growing role of data analytics in professional basketball has transformed how teams evaluate performance, develop strategies, and make decisions.
 
-This project focuses on analyzing the five teams within the **National Basketball Association (NBA) Atlantic Division** through historical game statistics, exploratory data analysis, and predictive modeling.
+This project analyzes the five NBA Atlantic Division teams using historical game data. We will study how their performance changes over time, compare their strengths and weaknesses, and estimate the chance that the home team wins before tipoff.
 
-Our primary objective is to identify the statistical factors that influence team performance, uncover trends across seasons, and develop machine learning models to predict game outcomes.
+We will develop and evaluate predictive models using information available before tipoff. Model selection will be guided by predictive performance, interpretability, and computational requirements.
+
+The results will power an interactive website. Visitors will be able to choose a historical matchup, see the model’s pregame win probability, and reveal the final score and key game statistics.
 
 By combining **Sports Analytics, Statistical Analysis, Data Visualization, and Machine Learning**, we aim to translate historical NBA data into meaningful insights and predictions.
 
@@ -38,7 +40,9 @@ The primary objectives of this project are:
 
 4. **Predictive Modeling:** Develop machine learning models capable of predicting game outcomes using historical team performance and relevant statistical indicators.
 
-5. **Data Visualization:** Communicate findings through visualizations that illustrate performance trends, statistical relationships, and model results.
+5. **Interactive Website:** Publish matchup filters, team comparisons, pregame predictions, and a postgame result reveal
+
+6. **Website Hosting:** Explore free hosting options for the interactive site and its game data.
 
 ## Key Research Questions
 
@@ -49,6 +53,7 @@ This project aims to address the following questions:
 - How have team performance trends changed across different NBA seasons?
 - Can historical team statistics accurately predict future game outcomes?
 - Which machine learning algorithms demonstrate the strongest predictive performance?
+- How well do the predicted win probabilities match actual outcomes?
 - How can analytical insights support basketball performance evaluation and decision-making?
 
 ## Data Collection & Preparation
@@ -117,6 +122,14 @@ Where applicable, chronological training and testing splits will be used to eval
 
 Interpret model results, identify influential variables, summarize key analytical findings, and discuss limitations and potential improvements.
 
+### Phase 7: Interactive Website & Deployment
+
+Start with a historical Celtics–Knicks matchup. Let visitors view the model’s win probability before revealing the score and postgame comparison. Expand to other Atlantic Division matchups once the first flow works.
+
+Prepare game records for the website with the matchup ID, date, prediction cutoff, home-team win probability, and postgame results. The website will use these records to filter matchups and display charts.
+
+The team will evaluate free hosting and data options before choosing how to deploy. Test shareable matchup links, mobile and keyboard use, and how the site handles missing data.
+
 ## Tools & Technologies
 
 The following tools and libraries may be used throughout the project:
@@ -139,8 +152,9 @@ At the conclusion of this project, we aim to produce:
 - A comprehensive statistical analysis of the NBA Atlantic Division.
 - A comparative evaluation of all five teams.
 - Visualizations illustrating historical performance and key trends.
-- Predictive models for evaluating potential NBA game outcomes.
-- An assessment of model accuracy and important predictive variables.
+- Predictive models for estimating pregame win probabilities.
+- An evaluation of the model’s win probabilities on later games.
+- A deployed interactive matchup explorer with pregame probabilities and a postgame reveal.
 - A final summary of analytical findings, limitations, and future opportunities.
 
 ## Project Status
