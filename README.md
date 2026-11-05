@@ -159,11 +159,11 @@ This project is developed collaboratively by three team members with a shared in
 
 ### Team Member 2: Hemanth Kumar Gopi
 
-**GitHub:** [GitHub Profile]
+**GitHub:** Hemanth-55
 
 ### Team Member 3: Paris Taliadouros
 
-**GitHub:** [GitHub Profile]
+**GitHub:** ptaliadouros00
 
 ---
 
